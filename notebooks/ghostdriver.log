@@ -19,3 +19,4 @@
 [ERROR - 2018-07-01T11:13:26.877Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1530443606848
 
   phantomjs://platform/console++.js:263 in error
+[INFO  - 2018-07-01T11:15:44.611Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
